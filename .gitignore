@@ -1,0 +1,14 @@
+__pycache__/
+logs/
+wandb_logs/
+.ipynb_checkpoints/
+*.npy
+.idea/
+*.pth
+*.ckpt
+*.tif
+*.png
+*.csv
+*.svg
+*.nrrd
+*.pdf
